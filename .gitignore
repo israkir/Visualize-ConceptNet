@@ -1,0 +1,8 @@
+.DS_Store
+*.pyc
+*.swp
+
+static/js/*
+static/css/*
+.sass-cache/*
+
